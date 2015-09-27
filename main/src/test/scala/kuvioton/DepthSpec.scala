@@ -1,0 +1,5 @@
+package kuvioton
+
+class DepthSpec {
+
+}
